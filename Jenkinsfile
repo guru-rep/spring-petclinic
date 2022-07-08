@@ -28,7 +28,7 @@ spec:
 
   environment {
     NEXUS_INSTANCE = "NEXUS_REP_GURU"
-    NEXUS_REPOSITORY = "shared-demos
+    NEXUS_REPOSITORY = "shared-demos"
     ROLLOUT_APP_TOKEN = "$ROLLOUT_APP_TOKEN"
     ROLLOUT_USER_TOKEN = "$ROLLOUT_USER_TOKEN"
   }
